@@ -4,9 +4,9 @@
 Проект моделирует центр обработки заказов доставки еды в реальном времени. Заказы от ресторанов поступают равномерно, хранятся в буфере и обрабатываются операторами с пакетной логикой.
 
 ## Структура
-- [Сиквенс-диаграмма](https://github.com/Extra555/APS/blob/main/sequence_diagram.png)
-- [Диаграмма классов](https://github.com/Extra555/APS/blob/main/class_diagram.png)
-- [Flowchart с дорожками](https://github.com/Extra555/APS/blob/main/flowchart.png)
+![Сиквенс-диаграмма](https://github.com/Extra555/APS/blob/main/sequence_diagram.png)
+![Диаграмма классов](https://github.com/Extra555/APS/blob/main/class_diagram.png)
+![Flowchart с дорожками](https://github.com/Extra555/APS/blob/main/flowchart.png)
 
 ## Автор
 Маслов Денис Кириллович
