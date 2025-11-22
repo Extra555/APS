@@ -7,7 +7,7 @@
 ### Sequence_diagram
 ![Сиквенс-диаграмма](https://github.com/Extra555/APS/blob/main/sequence_diagram.png)
 ### Class_diagram
-![Диаграмма классов](https://github.com/Extra555/APS/blob/main/class_diagram.png)
+![Диаграмма классов](https://github.com/Extra555/APS/blob/main/class_diagram2.png)
 ### Flowchart
 ![Flowchart с дорожками](https://github.com/Extra555/APS/blob/main/flowchart.png)
 
